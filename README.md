@@ -127,12 +127,6 @@ The resolved ticket will disappear from the open tickets tab and appear in the c
 ![image](https://github.com/user-attachments/assets/6205fe65-1807-4b0f-a8c2-b1ce848033a9)
 
 
-<br />
-<br />
-<img 
-<br />
-<br />
-
 <h2>osTicket: Creating and Working Tickets is now Complete!</h2>
 
 <b> We've successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication! </b>
