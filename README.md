@@ -34,7 +34,7 @@ First, I will navigate to the end user site of osTicket to be able to create a n
 <p align="center">
 I will open three new tickets and fill out the users information along with the technical issues:  <br/>
 
-![image](https://github.com/user-attachments/assets/e70e3a84-1cbe-430b-9d1c-d0788957f02f)
+![image](https://github.com/user-attachments/assets/e61fcf31-4471-463d-b620-f3ecbfec96d0)
 ![image](https://github.com/user-attachments/assets/edb4e581-c01f-4dc2-9614-62aa772995a1)
 ![image](https://github.com/user-attachments/assets/9a26d7bc-8597-48db-874b-d5e807ce906c)
  
