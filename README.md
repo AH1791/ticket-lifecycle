@@ -106,14 +106,18 @@ At the bottom I can post replies communicating updates of the ticket:  <br/>
 
 <br />
 <br />
+<p align="center">
 If I go back to see all the open tickets, I can see the changes I made to the ticket:  <br/>
 
 ![image](https://github.com/user-attachments/assets/bb161f2a-bc8b-485d-89ef-ef257927cac7)
 
 <br />
 <br />
+<p align="center">
 To resolve a ticket, I can select "Resolved" from the "Ticket Status" menu at the bottom of the ticket:
-<img 
+
+![image](https://github.com/user-attachments/assets/982f5740-c01d-4fe1-9d63-2345b98c7129)
+
 <br />
 <br />
 The resolved ticket will disappear from the open tickets tab and appear in the closed tickets tab:
