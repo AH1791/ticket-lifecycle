@@ -120,8 +120,13 @@ To resolve a ticket, I can select "Resolved" from the "Ticket Status" menu at th
 
 <br />
 <br />
+<p align="center">
 The resolved ticket will disappear from the open tickets tab and appear in the closed tickets tab:
-<img
+
+![image](https://github.com/user-attachments/assets/58ea72c4-fbd8-4d34-ac3c-869f1554462e)
+![image](https://github.com/user-attachments/assets/6205fe65-1807-4b0f-a8c2-b1ce848033a9)
+
+
 <br />
 <br />
 <img 
