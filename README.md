@@ -59,7 +59,9 @@ I can now see all the open tickets I created in the "Tickets" tab:  <br/>
 <br />
 <p align="center">
 When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:  <br/>
-<img 
+
+ ![image](https://github.com/user-attachments/assets/641131a0-7f08-4c1e-8c64-719c164ec7e6)
+
 <br />
 <br />
 <p align="center">
