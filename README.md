@@ -1,6 +1,7 @@
 # ticket-lifecycle
 <p align="center">
 <img src="https://i.imgur.com/tUnlhRz.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
+ 
 <br />
 
 <h1>osTicket: Ticket and lifecycling Tickets</h1>
@@ -24,11 +25,13 @@ This is a continuation of the [osTicket: Post-Installation Configuration](https:
 
 <p align="center">
 First, I will navigate to the end user site of osTicket to be able to create a new ticket: <br/>
+<p align="center"> 
  
 ![image](https://github.com/user-attachments/assets/92eb2f18-560b-4eb3-b7f7-86679f02bca8)
 
 <br />
 <br />
+<p align="center">
 I will open three new tickets and fill out the users information along with the technical issues:  <br/>
 
 ![image](https://github.com/user-attachments/assets/e70e3a84-1cbe-430b-9d1c-d0788957f02f)
@@ -45,7 +48,9 @@ I will open three new tickets and fill out the users information along with the 
 <br />
 <br />
 Next, I will log in as an agent (worker) we created:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/35e54657-78dc-4e15-aaec-18ae829e1194)
+
 <br />
 <br />
 I can now see all the open tickets I created in the "Tickets" tab:  <br/>
