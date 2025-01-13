@@ -47,22 +47,26 @@ I will open three new tickets and fill out the users information along with the 
 <img 
 <br />
 <br />
+<p align="center">
 Next, I will log in as an agent (worker) we created:  <br/>
 
 ![image](https://github.com/user-attachments/assets/35e54657-78dc-4e15-aaec-18ae829e1194)
 
 <br />
 <br />
+<p align="center">
 I can now see all the open tickets I created in the "Tickets" tab:  <br/>
 
 ![image](https://github.com/user-attachments/assets/2c46aa4d-1db3-40e3-89cb-f2033df97bb6)
 
 <br />
 <br />
+<p align="center">
 When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:  <br/>
 <img 
 <br />
 <br />
+<p align="center">
 I can change the priority level on appropriate tickets by clicking the "Priority" section and can add a note for the change made:  <br/>
 <img 
 <br />
