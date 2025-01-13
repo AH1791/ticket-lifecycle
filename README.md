@@ -66,7 +66,9 @@ When clicking on a ticket I can see all the information about the ticket like it
 <br />
 <p align="center">
 I can change the priority level on appropriate tickets by clicking the "Priority" section and can add a note for the change made:  <br/>
-<img 
+
+ ![image](https://github.com/user-attachments/assets/6ba6fec2-aa0c-46ff-9d08-be80c2c3c857)
+
 <br />
 <br />
 To assign a ticket, click on "Unassigned" next to the "Assigned To" section and select an agent to assign this ticket to:  <br/>
