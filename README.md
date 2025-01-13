@@ -24,7 +24,9 @@ This is a continuation of the [osTicket: Post-Installation Configuration](https:
 
 <p align="center">
 First, I will navigate to the end user site of osTicket to be able to create a new ticket: <br/>
-<img 
+ 
+![image](https://github.com/user-attachments/assets/92eb2f18-560b-4eb3-b7f7-86679f02bca8)
+
 <br />
 <br />
 I will open three new tickets and fill out the users information along with the technical issues:  <br/>
