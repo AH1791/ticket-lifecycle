@@ -37,14 +37,10 @@ I will open three new tickets and fill out the users information along with the 
 ![image](https://github.com/user-attachments/assets/e70e3a84-1cbe-430b-9d1c-d0788957f02f)
 ![image](https://github.com/user-attachments/assets/edb4e581-c01f-4dc2-9614-62aa772995a1)
 ![image](https://github.com/user-attachments/assets/9a26d7bc-8597-48db-874b-d5e807ce906c)
+ 
+<br />
+<br />
 
-
-<br />
-<br />
-<img 
-<br />
-<br />
-<img 
 <br />
 <br />
 <p align="center">
