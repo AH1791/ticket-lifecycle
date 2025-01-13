@@ -71,28 +71,45 @@ I can change the priority level on appropriate tickets by clicking the "Priority
 
 <br />
 <br />
+<p align="center">
 To assign a ticket, click on "Unassigned" next to the "Assigned To" section and select an agent to assign this ticket to:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/2a2a54fb-126d-4638-8026-8e41f5abf03a)
+
 <br />
 <br />
+<p align="center">
 I can also change the tickets SLA (Service Level Aggrement) of the ticket in the "SLA Plan" section:  <br/>
-<img 
+ 
+![image](https://github.com/user-attachments/assets/2b6e155c-6738-4d81-a2c0-ba0444d9522e)
+
 <br />
 <br />
+<p align="center">
 Another option I have is to change the tickets department in the "Department" section:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/68fce70f-8459-43fd-a28d-55fa599f7af8)
+
 <br />
 <br />
+<p align="center">
 Looking further down I can see a thread of all of the changes made to the ticket:
-<img 
+
+![image](https://github.com/user-attachments/assets/7d48149f-78fc-452e-843a-8bfb954cbeaf)
+
 <br />
 <br />
+<p align="center">
 At the bottom I can post replies communicating updates of the ticket:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/d0bf7755-54c6-4384-b701-70da8741de10)
+
 <br />
 <br />
 If I go back to see all the open tickets, I can see the changes I made to the ticket:  <br/>
-<img 
+
+![image](https://github.com/user-attachments/assets/bb161f2a-bc8b-485d-89ef-ef257927cac7)
+
 <br />
 <br />
 To resolve a ticket, I can select "Resolved" from the "Ticket Status" menu at the bottom of the ticket:
